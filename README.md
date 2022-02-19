@@ -12,6 +12,7 @@ The languages currently are:
 - Javascript-Typescript
 - Python
 - Go
+
 Maybe I'll play with a bit of `C#` lang
 
 I wanna write software to entertain myself and help people.
