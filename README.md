@@ -18,7 +18,7 @@ Maybe I'll play with a bit of `C#` lang
 I wanna write software to entertain myself and help people.
 
 ### Github Widget
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibodev1&show_icons=true&theme=showing-icons)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibodev1&layout=compact)](https://github.com/ibodev1/)
 
 ### My spotify recently played;
