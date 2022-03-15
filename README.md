@@ -16,7 +16,11 @@ The languages currently are:
 Maybe I'll play with a bit of `C#` lang
 
 I wanna write software to entertain myself and help people.
-### Can I stalk your spotify?
-Yes! my recently played;
+
+### Github Widget
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibodev1&layout=compact)](https://github.com/ibodev1/)
+
+### My spotify recently played;
 
 ![My spotify](https://spotify-recently-played-readme.vercel.app/api?user=f34tu287dryj35rb7z30bnnsu&unique={true|1|on|yes})
