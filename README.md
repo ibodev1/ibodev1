@@ -1,7 +1,6 @@
 # Hi, I'am İbrahim.
-Well, nothing special, just an eighteen year old person interested in computers and art.
-Name's `İbrahim`, `İbrahim Ödev` to be exact. Call me İbrahim if you wanna.
-I'm not a professional in any way whatsoever, I do things to have fun and cause its interesting.
+Call me ibo if you wanna. I'm not a professional in any way whatsoever, I do things to have fun and cause its interesting.
+
 ### Where are you from? Where do you belong?
 `Karatay-Konya`/`Turkey`🇹🇷
 
