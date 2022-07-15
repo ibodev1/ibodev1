@@ -23,6 +23,7 @@ My favorite song Chris Isaak - Wicked Game
 
 ### Github Widget
 ![](https://komarev.com/ghpvc/?username=ibodev1&color=blue)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibodev1&show_icons=true&theme=showing-icons)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibodev1&layout=compact)](https://github.com/ibodev1/)
 
