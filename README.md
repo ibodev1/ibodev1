@@ -16,6 +16,13 @@ Maybe I'll play with a bit of `C#` lang
 
 I wanna write software to entertain myself and help people.
 
+### What is your favorite song?
+
+My favorite song Chris Isaak - Wicked Game
+
+[You can check my repo about it.](https://github.com/ibodev1/wicked-game)
+[Here is the json file.](https://raw.githubusercontent.com/ibodev1/wicked-game/main/docs/index.json)
+
 ### Github Widget
 ![](https://komarev.com/ghpvc/?username=ibodev1&color=blue)
 
