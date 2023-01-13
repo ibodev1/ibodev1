@@ -1,5 +1,29 @@
 ## 👋 Hi, I'am Ibrahim.
-
-[![İbrahim's Github stats](https://github-readme-stats.vercel.app/api?username=ibodev1&show_icons=true)](https://github.com/ibodev1/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibodev1&layout=compact)](https://github.com/ibodev1/)
+```scss
+.me {
+  name: ibrahim;
+  surname: odev;
+  from: Konya, Turkey;
+  date-of-birth: 2005;
+  
+  .experiences {
+    nodejs: true;
+    express-js: true;
+    react: true;
+    react-native: true;
+    next-js: true;
+    gulp-js: true;
+    tailwindcss: true;
+    typescript: false;
+    csharp: 50%;
+    dotnet-core: false;
+    java: false;
+  }
+  
+  .social-media {
+    twitter: @ibodev1;
+    linkedin: in/ibrahimodev;
+    google-dev: ibodev;
+  }
+}
+```
